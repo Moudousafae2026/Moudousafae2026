@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60%"/>
+<img src="https://media.giphy.com/media/3o7aD6GxL5j5rO0UYo/giphy.gif" width="60%"/>
 <br><br>
 
 <h1>Hi 👋 I'm Safaa Modo</h1>
@@ -8,7 +8,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=ff69b4)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=ff69b4)
 
 </div>
 
