@@ -1,16 +1,17 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="55%"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60%"/>
 <br><br>
 
-<h1>Hi 👋 I'm Moudou</h1>
-<h3>Beginner Backend Developer | JavaScript Enthusiast 💜</h3>
+<h1>Hi 👋 I'm Safaa Modo</h1>
+<h3>Beginner Backend Developer | JavaScript & Node.js 💜🚀</h3>
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=ff69b4)
 
 </div>
+
 
 
 <hr>
