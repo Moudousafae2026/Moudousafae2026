@@ -1,16 +1,17 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%"/> 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="55%"/>
 <br><br>
 
-<h1>Hi 👋 I'm Safaa Modo</h1>
-<h3>Beginner Backend Developer | JavaScript Enthusiast 🚀</h3>
+<h1>Hi 👋 I'm Moudou</h1>
+<h3>Beginner Backend Developer | JavaScript Enthusiast 💜</h3>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=ff69b4)
 
 </div>
+
 
 <hr>
 
@@ -29,8 +30,8 @@
 ```ts
 // About Me in TypeScript style 😄
 
-class SafaaModo {
-  name: string = "Safaa Modo";
+class Moudou {
+  name: string = "Safae Moudou";
   role: string = "Beginner Backend Developer";
   currentlyLearning: string[] = ["JavaScript", "Node.js", "TypeScript"];
   goals: string[] = [
